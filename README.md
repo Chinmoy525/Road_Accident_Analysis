@@ -1,2 +1,2 @@
 # Road_Accident_Analysis
-I analysed this visualisation using Power Bi.
+This project is aimed to developing a Power Bi dashboard for generating insights about road accident data in th UK .
